@@ -1,4 +1,4 @@
-package Java;
+
 
 public class meathod {
     public static void main(String[] args){
